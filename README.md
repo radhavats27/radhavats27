@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radhavats27.
 - 👀 I’m interested in python programming.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on artificial intelligence.
+- 🌱 I’m currently learning Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Artificial Intelligence.
 - 📫 How to reach me radhavats27@gmail.com.
 
 <!---
